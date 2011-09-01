@@ -16,5 +16,7 @@
         "linestream": "*",
         "optimist": "*"
     },
-    "devDependencies": {}
+    "bin": {
+        "ldifgrep": "./ldifgrep.js"
+    }
 }
